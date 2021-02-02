@@ -1,0 +1,13 @@
+/home/umit/Desktop/projects/netcore/guidedemoapp/bin/Debug/netcoreapp3.1/guidedemoapp
+/home/umit/Desktop/projects/netcore/guidedemoapp/bin/Debug/netcoreapp3.1/guidedemoapp.deps.json
+/home/umit/Desktop/projects/netcore/guidedemoapp/bin/Debug/netcoreapp3.1/guidedemoapp.runtimeconfig.json
+/home/umit/Desktop/projects/netcore/guidedemoapp/bin/Debug/netcoreapp3.1/guidedemoapp.runtimeconfig.dev.json
+/home/umit/Desktop/projects/netcore/guidedemoapp/bin/Debug/netcoreapp3.1/guidedemoapp.dll
+/home/umit/Desktop/projects/netcore/guidedemoapp/bin/Debug/netcoreapp3.1/guidedemoapp.pdb
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.csprojAssemblyReference.cache
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.AssemblyInfoInputs.cache
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.AssemblyInfo.cs
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.csproj.CoreCompileInputs.cache
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.dll
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.pdb
+/home/umit/Desktop/projects/netcore/guidedemoapp/obj/Debug/netcoreapp3.1/guidedemoapp.genruntimeconfig.cache
